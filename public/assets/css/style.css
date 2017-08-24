@@ -570,6 +570,7 @@ ul {
     max-width: 1280px;
 }
 
-.video-background{
-  background-color: black;
-  background-size: cover;
+.video{
+  text-align: center;
+  padding: 75px;
+}

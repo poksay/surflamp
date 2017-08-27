@@ -484,7 +484,7 @@ ul {
 
 .blue-section-subtext {
     max-width: 200px;
-    max-width: 250px;
+    max-width: 400px;
     line-height: 22px;
     font-size: 15px;
     margin: auto;
@@ -568,9 +568,11 @@ ul {
 .strips {
     position: absolute;
     max-width: 1280px;
+    pointer-events: none;
 }
 
 .video{
   text-align: center;
   padding: 75px;
+  position: relative;
 }
